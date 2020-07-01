@@ -12,6 +12,10 @@ class Course
   def self.all 
     @@all 
   end
+  
+  def title=(title)
+    @title = title 
+  end
     
     
     
