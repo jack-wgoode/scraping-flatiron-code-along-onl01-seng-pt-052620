@@ -19,5 +19,4 @@ class Course
 end
   
   
-end
 
