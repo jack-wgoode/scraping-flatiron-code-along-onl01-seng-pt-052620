@@ -4,8 +4,8 @@ class Course
   
   @@all = []
   
-  def initialize()
-    
+  def initialize(title)
+    @titla = title
     @@all << self
   end
   
